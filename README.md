@@ -1,5 +1,4 @@
-# Linear-Regression-1
-This is the solution to the task-I of the Data Science and Business Analytics part of the internship.
-The task is to create a simple Linear Regression model which predicts the percentage of a student based on the number of study hours.
-It involves just 2 variables and only 1 feature, namely, the number of hours studeied by a student.<br/>
-It is performed using the scikit-learn library in python.
+# Linear Regression
+
+1. The first model is a Linear Regression model which is used to predict the scores of a student given the number of hours he/she studies.<br/>
+   The data contains a single feature which is the number of hours studied by a student. As the data is simple and contains only one feature, Linear Regression is the optimal algorithm and upon completion it was found that the model obtained an accuracy of 96%.
